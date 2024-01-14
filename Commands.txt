@@ -1,0 +1,12 @@
+java -jar section345-0.0.1-SNAPSHOT.jar --server.port=8001
+
+
+
+
+java -jar microsservice-0.0.1-SNAPSHOT.jar --server.port=8011
+
+
+
+
+
+.\chrome.exe  --disable-site-isolation-trials --disable-web-security --user-data-dir="D:\temp"
